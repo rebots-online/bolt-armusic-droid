@@ -1,0 +1,4 @@
+-keep class com.google.ar.** { *; }
+    -keep class org.opencv.** { *; }
+    -dontwarn com.google.ar.**
+    -dontwarn org.opencv.**

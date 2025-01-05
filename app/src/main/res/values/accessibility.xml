@@ -1,0 +1,3 @@
+<resources>
+        <string name="note_description">Note: %1$s at position %2$d</string>
+    </resources>
